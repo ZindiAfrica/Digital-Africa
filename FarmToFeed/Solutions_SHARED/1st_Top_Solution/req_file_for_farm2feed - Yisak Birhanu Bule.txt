@@ -1,0 +1,6 @@
+polars==1.25.2
+pandas==2.2.2
+numpy==2.0.2
+lightgbm==4.6.0
+xgboost==3.1.0
+scikit-learn==1.6.1
