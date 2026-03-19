@@ -1,0 +1,12 @@
+numpy==2.2.6
+pandas==2.3.0
+tqdm==4.67.1
+scikit-learn==1.7.0
+feature-engine==1.8.3
+xgboost==3.0.2
+catboost==1.2.8
+lightgbm==4.6.0
+scipy==1.16.0
+sentence-transformers==5.2.2
+seaborn==0.13.2
+matplotlib==3.10.3
