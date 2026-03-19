@@ -1,0 +1,11 @@
+catboost==1.2.7
+lightgbm==4.6.0
+scikit-learn
+pandas
+numpy
+xgboost==3.0.2
+torch>=2.0
+seaborn==0.13.2
+shapely==2.0.6
+geopandas==1.0.1
+rasterio==1.4.3
